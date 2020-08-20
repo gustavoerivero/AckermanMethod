@@ -1,4 +1,4 @@
-# AckermanMethod
+# Recursive Ackermann Function
 
 <table>
     <tr>

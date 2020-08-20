@@ -1,4 +1,4 @@
-# Función Recursiva de Ackerman
+# Función Recursiva de Ackermann
 
 <table>
     <tr>
